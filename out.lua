@@ -1,4 +1,4 @@
--- Made By Tully#2697, Solx69, Henry1887#6969, And Others.
+-- Made By Tully#2697, Henry1887#6969, And Many Others.
 -- This Was NOT a Collab, I (Tully#2697) Edited Code From Both Of These Developers.
 -- I Will Not Release The Obfuscation Software That I Used (That Way People Cant Steal My Code),
 -- If You Don't Want To Use This Script, That's Fine. As I Said, It's Perfectly Safe.
